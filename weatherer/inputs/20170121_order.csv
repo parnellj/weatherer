@@ -1,0 +1,2 @@
+state,address,measure,cmap,cmap_name,zoom,interpolate,stroke_width,time_start,time_end,measurement_value,time_resolution,prefix,aspect,width,height,dpi,bleed,mat_width,pad_width,mat_color,pad_color,zoom_px,colorspace,geo_range,flag
+GA,"Georgia, United States of America",tcdc,Greys,Gray,8,1,0.25,19790101,20090101,tcdc,monthly,1169986203,Square,11,14,600,0.25,1,0.25,#000000,#FFFFFF,800,cmyk,"30.3556,35.0009,-85.6052,-80.8407",order
